@@ -2,11 +2,11 @@
 
 <h1 align="center">Hello 👋, I'm Arnold Kalema</h1>
 <h3 align="center">A passionate Software Engineer from Uganda</h3>
-<img align="right" alt="coding" with="400" src="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldkk&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldkk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnoldkk" alt="arnoldkk" /></a> </p>
-
+<img align="right" alt="coding" with="100" src="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldkk&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldkk" /> </p>
+ -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnoldkk" alt="arnoldkk" /></a> </p>
+ -->
 <p align="left"> <a href="https://twitter.com/arnoldkalema" target="blank"><img src="https://img.shields.io/twitter/follow/arnoldkalema?logo=twitter&style=for-the-badge" alt="arnoldkalema" /></a> </p>
 
 - 🔭 I’m currently working on [Nyom Planet](https://nyomplanet.com)
