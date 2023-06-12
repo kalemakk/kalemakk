@@ -1,3 +1,5 @@
+[![MasterHead](https://wso2.cachefly.net/wso2/sites/all/images/2020/ebook-newsletter.gif)](https://wso2.com/)
+
 <h1 align="center">Hello 👋, I'm Arnold Kalema</h1>
 <h3 align="center">A passionate Software Engineer from Uganda</h3>
 
